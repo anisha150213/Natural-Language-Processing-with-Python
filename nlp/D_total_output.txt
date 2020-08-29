@@ -1,0 +1,7 @@
+BNC Total Words = 5870968
+CS Total Words = 1359311
+BNC Unique Words = 129745
+CS Unique Words = 35640
+BNC Type/Token ratio = 0.022099422105519906
+CS Type/Token ratio = 0.02621916544484669
+Total Type/Token ratio = 0.022873944421785107
